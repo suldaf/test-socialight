@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "shul",
+    "password": null,
+    "database": "socialight-dev",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "shul",
+    "password": null,
+    "database": "socialight-test",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "shul",
+    "password": null,
+    "database": "socialight",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
